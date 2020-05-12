@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Wanner Martins",
+      "email": "wanner@usp.br"
+    },
+    {
+      "id": 2,
+      "name": "Caio Oliveira",
+      "email": "caiossoliveira@usp.br"
+    }
+  ]
+}
